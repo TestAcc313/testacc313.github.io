@@ -1,6 +1,6 @@
 baseURL = "https://testacc313.github.io/"
 languageCode = "en-us"
-title = "waifus.me"
+title = "https://testacc313.github.io/"
 theme = "terminal"
 paginate = 5
 
@@ -47,7 +47,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "waifus.me"
+    title = "test"
     subtitle = "github pages deployment by jmir"
     owner = ""
     keywords = ""
